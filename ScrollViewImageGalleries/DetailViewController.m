@@ -29,9 +29,7 @@
     
     //self.detailView.contentSize = self.imageViewDetail.bounds.size;
     
-   // self.detailView.contentSize = CGSizeMake(10000, 100000);
 
-    
     self.detailView.minimumZoomScale = 1.0;
     self.detailView.maximumZoomScale = 4.0;
     self.detailView.zoomScale = 1.0;
